@@ -1,0 +1,64 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# IDE configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test reports
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Migrations
+migrations/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+build/
+dist/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*.swp
+
+# Environment variables
+.env
